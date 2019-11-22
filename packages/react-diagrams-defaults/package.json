@@ -1,6 +1,6 @@
 {
 	"name": "@kbruskiewicz/react-diagrams-defaults",
-	"version": "6.0.7-alpha.0",
+	"version": "6.0.7",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"repository": {
@@ -29,7 +29,7 @@
 	"main": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@kbruskiewicz/react-diagrams-core": "^6.0.7-alpha.0"
+		"@kbruskiewicz/react-diagrams-core": "^6.0.7"
 	},
 	"peerDependencies": {
 		"@emotion/core": "^10.*",
