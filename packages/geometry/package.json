@@ -1,6 +1,6 @@
 {
 	"name": "@projectstorm/geometry",
-	"version": "6.0.4",
+	"version": "6.0.5",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"repository": {
@@ -31,5 +31,5 @@
 	"peerDependencies": {
 		"mathjs": "^6.0.3"
 	},
-	"gitHead": "bb878657ba0c2f81764f32901fd96158a0f8352e"
+	"gitHead": "bfa795a9acc8c73a19f0bd912ba30af9c11bdc6d"
 }
