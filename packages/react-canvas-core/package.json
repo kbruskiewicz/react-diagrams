@@ -1,6 +1,6 @@
 {
-	"name": "@projectstorm/react-canvas-core",
-	"version": "6.0.6-alpha.0",
+	"name": "@kbruskiewicz/react-canvas-core",
+	"version": "6.0.6",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"repository": {
@@ -36,5 +36,5 @@
 		"lodash": "4.*",
 		"react": "16.*"
 	},
-	"gitHead": "76607fc43cf9411e2d93799728a032181cb823a4"
+	"gitHead": "f4365351cad10115a319d152b4611f4b09b03a8f"
 }

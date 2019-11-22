@@ -1,6 +1,6 @@
 {
 	"name": "@projectstorm/react-diagrams-gallery",
-	"version": "6.0.6-alpha.0",
+	"version": "6.0.6",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"private": true,

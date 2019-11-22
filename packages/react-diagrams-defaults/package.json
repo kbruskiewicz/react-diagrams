@@ -1,11 +1,11 @@
 {
-	"name": "@projectstorm/react-diagrams-defaults",
-	"version": "6.0.6-alpha.0",
+	"name": "@kbruskiewicz/react-diagrams-defaults",
+	"version": "6.0.6",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/projectstorm/react-diagrams.git"
+		"url": "https://github.com/kbruskiewicz/react-diagrams.git"
 	},
 	"scripts": {
 		"clean": "rm -rf ./dist",
@@ -29,7 +29,7 @@
 	"main": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@projectstorm/react-diagrams-core": "^6.0.6-alpha.0"
+		"@kbruskiewicz/react-diagrams-core": "^6.0.6"
 	},
 	"peerDependencies": {
 		"@emotion/core": "^10.*",
@@ -37,5 +37,5 @@
 		"lodash": "4.*",
 		"react": "16.*"
 	},
-	"gitHead": "76607fc43cf9411e2d93799728a032181cb823a4"
+	"gitHead": "f4365351cad10115a319d152b4611f4b09b03a8f"
 }
