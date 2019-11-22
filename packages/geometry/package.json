@@ -1,6 +1,6 @@
 {
   "name": "@kbruskiewicz/geometry",
-  "version": "6.0.6",
+  "version": "6.0.7-alpha.0",
   "author": "dylanvorster",
   "license": "MIT",
   "repository": {
@@ -32,9 +32,9 @@
     "mathjs": "^6.0.3"
   },
   "bugs": {
-    "url": "https://github.com/projectstorm/react-diagrams/issues"
+    "url": "https://github.com/kbruskiewicz/react-diagrams/issues"
   },
-  "homepage": "https://github.com/projectstorm/react-diagrams#readme",
+  "homepage": "https://github.com/kbruskiewicz/react-diagrams#readme",
   "description": "",
   "gitHead": "f4365351cad10115a319d152b4611f4b09b03a8f"
 }

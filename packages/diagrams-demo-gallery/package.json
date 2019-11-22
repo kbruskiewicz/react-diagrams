@@ -1,12 +1,12 @@
 {
-	"name": "@projectstorm/react-diagrams-gallery",
-	"version": "6.0.6",
+	"name": "@kbruskiewicz/react-diagrams-gallery",
+	"version": "6.0.7-alpha.0",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/projectstorm/react-diagrams.git"
+		"url": "https://github.com/kbruskiewicz/react-diagrams.git"
 	},
 	"scripts": {
 		"start": "../../node_modules/.bin/start-storybook",
